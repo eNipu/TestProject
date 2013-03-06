@@ -14,5 +14,5 @@
 	NSString *string;
 }
 
-
+@property(nonatomic, strong) NSDictionary *dctionary;
 @end

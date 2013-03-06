@@ -8,16 +8,15 @@
 
 #import "ABViewController.h"
 
-@interface ABViewController ()
-
-@end
 
 @implementation ABViewController
+
+@synthesize dctionary;
+
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
