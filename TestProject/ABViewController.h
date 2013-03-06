@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ABViewController : UIViewController
+{
+	NSArray *arry;
+	NSString *string;
+}
+
 
 @end
