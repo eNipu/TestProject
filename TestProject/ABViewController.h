@@ -12,6 +12,7 @@
 {
 	NSArray *arry;
 	NSString *string;
+	NSString *stringMarc;
 }
 
 @property(nonatomic, strong) NSDictionary *dctionary;
